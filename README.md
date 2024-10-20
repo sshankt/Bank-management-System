@@ -20,11 +20,11 @@ Follow the on-screen instructions and use the options:
 2 for Withdraw
 3 for Check Balance
 4 to Exit
-Make sure to enter your PIN for all transactions for security reasons.
+For security reasons, make sure to enter your PIN for all transactions.
 
 ## 🛠️ Configuration
 PIN: The default PIN is set to 76321. You can change it in the script by modifying the pin variable.
-Voice Feedback: The system will read your actions aloud. Ensure your system supports audio playback for the pyttsx3 module to function.
+Voice Feedback: The system will read your actions aloud. Please ensure your system supports audio playback for the pyttsx3 module.
 ### 📝 Example Usage
 plaintext
 Copy code
@@ -32,11 +32,11 @@ Copy code
 Press
  1. Deposit
  2. Withdraw
- 3. Check balance
+ 3. Check Balance
  4. Exit
 -------------------------------------------------
 Enter how you would like to proceed: 1
-Plese Enter The Amount: 5000
+Please enter The Amount: 5000
 Enter your PIN: 76321
 You deposited 5000 rupees.
-Your current balance is: 5000 rupees.
+Your current balance is 5000 rupees.
